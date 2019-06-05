@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lorem_cutesum/lorem_cutesum.dart';
 
 void main() => runApp(MyApp());
 

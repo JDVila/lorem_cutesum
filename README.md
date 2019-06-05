@@ -44,6 +44,16 @@ dependencies:
   lorem_cutesum: ^1.0.0
 ```
 
+You can also reference the git repo directly if you want:
+
+```
+dependencies:
+    lorem_cutesum:
+        git: git://github.com/JDVila/lorem_cutesum.git
+
+```
+You should then run flutter packages upgrade or update your packages in your IDE.
+
 Next, import the package into your app:
 
 ```dart
