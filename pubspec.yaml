@@ -1,7 +1,7 @@
 name: lorem_cutesum
 description: A Flutter package for obtaining cute baby animal image url strings and lorem ipsum styled filler text.
 version: 1.0.0
-author: Jose Vila
+author: Jose Vila <JDVila@gmail.com>
 homepage: https://github.com/JDVila/lorem_cutesum
 
 environment:

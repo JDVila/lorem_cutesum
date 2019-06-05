@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d9402f0-a9dd-4793-91ef-33c9d9d66a63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lorem_cutesum_example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lorem_cutesum_example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lorem_cutesum_example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/lorem_cutesum_example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lorem_cutesum_example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lorem_cutesum_example/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lorem_cutesum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lorem_cutesum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-    </list>
+    <list default="true" id="7d9402f0-a9dd-4793-91ef-33c9d9d66a63" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -49,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1032">
-              <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="23" />
+            <state relative-caret-position="219">
+              <caret line="54" column="81" selection-start-line="54" selection-start-column="81" selection-end-line="54" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -61,13 +53,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/lorem_cutesum_example/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="192">
+              <caret line="23" column="50" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="23" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/lorem_cutesum_example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -134,10 +126,10 @@
         <option value="$PROJECT_DIR$/lib/lorem_cutesum.dart" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/example/lorem_cutesum_example/pubspec.yaml" />
         <option value="$PROJECT_DIR$/example/lorem_cutesum_example/lib/main.dart" />
         <option value="$PROJECT_DIR$/example/lorem_cutesum_example/test/widget_test.dart" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -286,7 +278,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1920" height="1049" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Resources Explorer" order="0" weight="0.329582" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -297,10 +288,10 @@
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.30600214" />
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Messages" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" visible="true" weight="0.4994401" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.4994401" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32922733" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32922733" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
@@ -390,20 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1032">
-          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/lorem_cutesum_example/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/lorem_cutesum_example/lorem_cutesum_example.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -425,6 +402,20 @@
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lorem_cutesum_example/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="54" column="81" selection-start-line="54" selection-start-column="81" selection-end-line="54" selection-end-column="81" />
         </state>
       </provider>
     </entry>
