@@ -41,17 +41,22 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
           mainAxisSize: MainAxisSize.max,
+          crossAxisAlignment: CrossAxisAlignment.stretch,
           children: <Widget>[
-            Padding(
-              padding: EdgeInsets.only(top: 10.0, bottom: 10.0),
-              child: Text(
-                Cutesum.loremCutesum(words: 2),
-                style: TextStyle(fontSize: 30.0, fontWeight: FontWeight.bold),
+            Center(
+              child: Padding(
+                padding: EdgeInsets.only(top: 10.0, bottom: 10.0),
+                child: Text(
+                  Cutesum.loremCutesum(words: 2),
+                  style: TextStyle(fontSize: 30.0, fontWeight: FontWeight.bold),
+                ),
               ),
             ),
-            Text(
-              Cutesum.loremCutesum(words: 6) + "\n",
-              style: TextStyle(fontSize: 20.0, fontStyle: FontStyle.italic),
+            Center(
+              child: Text(
+                Cutesum.loremCutesum(words: 6) + "\n",
+                style: TextStyle(fontSize: 20.0, fontStyle: FontStyle.italic),
+              ),
             ),
             Padding(
               padding: EdgeInsets.only(left: 10.0, right: 10.0),
@@ -59,16 +64,10 @@ class _MyHomePageState extends State<MyHomePage> {
                 Cutesum.loremCutesum(words: 20) + "\n",
               ),
             ),
-            Center(
-              child: AspectRatio(
-                aspectRatio: 1,
-                child: Container(
-                  decoration: BoxDecoration(
-                      image: DecorationImage(
-                    fit: BoxFit.scaleDown,
-                    alignment: FractionalOffset.center,
-                    image: NetworkImage(Cutesum.randomImageUrl()),
-                  )),
+            Expanded(
+              child: Image(fit: BoxFit.cover,
+                image: NetworkImage(
+                  Cutesum.randomImageUrl(),
                 ),
               ),
             ),

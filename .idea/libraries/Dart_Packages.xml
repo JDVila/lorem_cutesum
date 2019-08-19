@@ -54,7 +54,7 @@
         <entry key="lorem_cutesum">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/lorem_cutesum-61b1cf734d13e357298d9465e32658e28f8d89e4/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/lorem_cutesum-b837a2b4f25be2c8e02cb9408b108996ec67c9b9/lib" />
             </list>
           </value>
         </entry>
@@ -159,7 +159,7 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/git/lorem_cutesum-61b1cf734d13e357298d9465e32658e28f8d89e4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/lorem_cutesum-b837a2b4f25be2c8e02cb9408b108996ec67c9b9/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/async-2.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/boolean_selector-1.0.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
